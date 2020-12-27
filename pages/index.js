@@ -11,13 +11,13 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a href="https://nextjs.org">Next.js!</a> is amazing! 😍
+          <a href="https://nextjs.org">Next.js!</a> is amazing!
         </h1>
         <p>
           This demo app is a part of tutorial:{" "}
           <strong>
-            <a href="https://dev.to/mubbashir10/host-next-js-app-on-aws-within-5-minutes-with-ci-cd-1o0a">
-              Deploy Next JS App on AWS in 5 minutes
+            <a href="#">
+              Deploy Next JS/Aws - amplify
             </a>
           </strong>{" "}
         </p>
