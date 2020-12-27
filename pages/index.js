@@ -11,14 +11,14 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a href="https://nextjs.org">Next.js!</a> is amazing!
+          <a href="https://nextjs.org">Next.js!</a> + Amplify
         </h1>
         <p>
           <strong>
             <a href="#">
               Deploy Next JS/Aws - amplify
             </a>
-          </strong>{" "}
+          </strong>
         </p>
       </main>
 
