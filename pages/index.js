@@ -14,7 +14,6 @@ export default function Home() {
           <a href="https://nextjs.org">Next.js!</a> is amazing!
         </h1>
         <p>
-          This demo app is a part of tutorial:{" "}
           <strong>
             <a href="#">
               Deploy Next JS/Aws - amplify
