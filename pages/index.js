@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Deploy Next JS App on AWS in 5 minutes</title>
+        <title>Next JS App on AWS</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
